@@ -21,5 +21,3 @@ Tech Stack used to create this project:
 - Tailwindcss
 - Vercel Deployment
 - custom components
-
-You can check out [Deployed Link of this Project](https://accu-knox.vercel.app/) - your feedback and contributions are welcome!
